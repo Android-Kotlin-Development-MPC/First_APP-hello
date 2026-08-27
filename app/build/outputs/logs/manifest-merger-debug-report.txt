@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/15c54e2acbe409add1da24c016614ee0/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/amiromarwork/.gradle/caches/8.14/transforms/ec186c245b07536bce1a8b9fdbb79446/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/f62401fcb922b31bbea993986790e351/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/14e4341fc71d3b7618e9177a338ef8de/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7d0ace105be9c7d2df27e990ce204fee/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/0fdfc4150411cf36833cca5a6a62c891/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/amiromarwork/.gradle/caches/8.14/transforms/d35feee20cb2db7c6ed4a6e52718e039/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/370635ff6924b5a189a434a21861a992/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/bfa83fc3e168a62135368b59527c1f26/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d97cbc85dbb6e6a57058d14b023cdccf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/25cd260d018a249c2427e3f7426b782c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c378299fc0b7fab17a8fb687764f8c32/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/586b51eed606b6012453a702e8b78d0f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/06ab94dc23854b804b3894f51fa1d48c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/41689de0d9e1cc57abad7d17faf6eb0a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/e9964008b89f4b390486f53adad2194e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7d7fbce26a54357e9d2113a5a1f264de/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/98fc6ba139ea14c48c1d2749d75bead1/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d89c005a06b19c6f51f37f0111e321d6/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/dfbbccdd6f78747558629fdd6f01e276/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/ec437acae8cd7424010c28b5bc37fff1/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/d0e67ab05263ab6a1a6b6392cf05822a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/d90d5793c8b2fc25132aedec57eb4893/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/591630fd8df0eb68e90aa19ba3d04dd4/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/83d86e530636334d99b17067daa96741/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/32d4a1376d488f9c4723f4ad23ef2617/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/40fc1abb2f2fa9370eac278214a7d830/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/372d53714a0b0013238b77f4526bf46d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/805b8bbd2a9bd9c3d8f8b0b34a6ce94e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/1193d468ac9b25b23a19e933744e49a0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a64dbca6cc8fdad109f11481bc169c5d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a257554803ee42d732eef68eafe00a53/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7a8f1bdf453f5334bb16bfe39af05c5b/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/105c0c94007b2d1b080a4a699c1b1fbf/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/42b76ed571a0918033a1cff205254dcf/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d47accb0a2d530edcacb856a01a8d012/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/be71c77f5509525a4574d95c5f3d14e6/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:4:5-19:19
+INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:4:5-19:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/15c54e2acbe409add1da24c016614ee0/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/15c54e2acbe409add1da24c016614ee0/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/amiromarwork/.gradle/caches/8.14/transforms/ec186c245b07536bce1a8b9fdbb79446/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/amiromarwork/.gradle/caches/8.14/transforms/ec186c245b07536bce1a8b9fdbb79446/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a64dbca6cc8fdad109f11481bc169c5d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a64dbca6cc8fdad109f11481bc169c5d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a257554803ee42d732eef68eafe00a53/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a257554803ee42d732eef68eafe00a53/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:10:9-47
+activity#com.example.helloamir.MainActivity
+ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/15c54e2acbe409add1da24c016614ee0/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/15c54e2acbe409add1da24c016614ee0/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/amiromarwork/.gradle/caches/8.14/transforms/ec186c245b07536bce1a8b9fdbb79446/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/amiromarwork/.gradle/caches/8.14/transforms/ec186c245b07536bce1a8b9fdbb79446/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/f62401fcb922b31bbea993986790e351/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/f62401fcb922b31bbea993986790e351/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/14e4341fc71d3b7618e9177a338ef8de/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/14e4341fc71d3b7618e9177a338ef8de/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7d0ace105be9c7d2df27e990ce204fee/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7d0ace105be9c7d2df27e990ce204fee/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/0fdfc4150411cf36833cca5a6a62c891/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/0fdfc4150411cf36833cca5a6a62c891/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/amiromarwork/.gradle/caches/8.14/transforms/d35feee20cb2db7c6ed4a6e52718e039/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/amiromarwork/.gradle/caches/8.14/transforms/d35feee20cb2db7c6ed4a6e52718e039/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/370635ff6924b5a189a434a21861a992/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/370635ff6924b5a189a434a21861a992/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/bfa83fc3e168a62135368b59527c1f26/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/bfa83fc3e168a62135368b59527c1f26/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d97cbc85dbb6e6a57058d14b023cdccf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d97cbc85dbb6e6a57058d14b023cdccf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/25cd260d018a249c2427e3f7426b782c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/25cd260d018a249c2427e3f7426b782c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c378299fc0b7fab17a8fb687764f8c32/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c378299fc0b7fab17a8fb687764f8c32/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/586b51eed606b6012453a702e8b78d0f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/586b51eed606b6012453a702e8b78d0f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/06ab94dc23854b804b3894f51fa1d48c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/06ab94dc23854b804b3894f51fa1d48c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/41689de0d9e1cc57abad7d17faf6eb0a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/41689de0d9e1cc57abad7d17faf6eb0a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/e9964008b89f4b390486f53adad2194e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/e9964008b89f4b390486f53adad2194e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7d7fbce26a54357e9d2113a5a1f264de/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7d7fbce26a54357e9d2113a5a1f264de/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/98fc6ba139ea14c48c1d2749d75bead1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/98fc6ba139ea14c48c1d2749d75bead1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d89c005a06b19c6f51f37f0111e321d6/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d89c005a06b19c6f51f37f0111e321d6/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/dfbbccdd6f78747558629fdd6f01e276/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/dfbbccdd6f78747558629fdd6f01e276/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/ec437acae8cd7424010c28b5bc37fff1/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/ec437acae8cd7424010c28b5bc37fff1/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/d0e67ab05263ab6a1a6b6392cf05822a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/d0e67ab05263ab6a1a6b6392cf05822a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/d90d5793c8b2fc25132aedec57eb4893/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/d90d5793c8b2fc25132aedec57eb4893/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/591630fd8df0eb68e90aa19ba3d04dd4/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/591630fd8df0eb68e90aa19ba3d04dd4/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/83d86e530636334d99b17067daa96741/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/83d86e530636334d99b17067daa96741/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/32d4a1376d488f9c4723f4ad23ef2617/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/32d4a1376d488f9c4723f4ad23ef2617/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/40fc1abb2f2fa9370eac278214a7d830/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/40fc1abb2f2fa9370eac278214a7d830/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/372d53714a0b0013238b77f4526bf46d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/372d53714a0b0013238b77f4526bf46d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/805b8bbd2a9bd9c3d8f8b0b34a6ce94e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/805b8bbd2a9bd9c3d8f8b0b34a6ce94e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/1193d468ac9b25b23a19e933744e49a0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/1193d468ac9b25b23a19e933744e49a0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a64dbca6cc8fdad109f11481bc169c5d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a64dbca6cc8fdad109f11481bc169c5d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a257554803ee42d732eef68eafe00a53/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a257554803ee42d732eef68eafe00a53/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7a8f1bdf453f5334bb16bfe39af05c5b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/7a8f1bdf453f5334bb16bfe39af05c5b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/105c0c94007b2d1b080a4a699c1b1fbf/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/105c0c94007b2d1b080a4a699c1b1fbf/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/42b76ed571a0918033a1cff205254dcf/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/42b76ed571a0918033a1cff205254dcf/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d47accb0a2d530edcacb856a01a8d012/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d47accb0a2d530edcacb856a01a8d012/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/be71c77f5509525a4574d95c5f3d14e6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/be71c77f5509525a4574d95c5f3d14e6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a257554803ee42d732eef68eafe00a53/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/a257554803ee42d732eef68eafe00a53/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.example.helloamir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.helloamir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

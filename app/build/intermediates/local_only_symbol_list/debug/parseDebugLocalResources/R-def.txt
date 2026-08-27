@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable background_gradient
+drawable circle_blue
+drawable circle_purple
+drawable glass_card
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_message
+string subtitle
+style Theme.HelloAmir

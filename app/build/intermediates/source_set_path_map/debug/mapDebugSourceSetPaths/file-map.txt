@@ -1,0 +1,34 @@
+com.example.helloamir.app-viewpager2-1.0.0-0 /Users/amiromarwork/.gradle/caches/8.14/transforms/0fdfc4150411cf36833cca5a6a62c891/transformed/viewpager2-1.0.0/res
+com.example.helloamir.app-core-runtime-2.2.0-1 /Users/amiromarwork/.gradle/caches/8.14/transforms/105c0c94007b2d1b080a4a699c1b1fbf/transformed/core-runtime-2.2.0/res
+com.example.helloamir.app-appcompat-1.6.1-2 /Users/amiromarwork/.gradle/caches/8.14/transforms/14e4341fc71d3b7618e9177a338ef8de/transformed/appcompat-1.6.1/res
+com.example.helloamir.app-material-1.11.0-3 /Users/amiromarwork/.gradle/caches/8.14/transforms/15c54e2acbe409add1da24c016614ee0/transformed/material-1.11.0/res
+com.example.helloamir.app-core-ktx-1.12.0-4 /Users/amiromarwork/.gradle/caches/8.14/transforms/32d4a1376d488f9c4723f4ad23ef2617/transformed/core-ktx-1.12.0/res
+com.example.helloamir.app-activity-1.8.0-5 /Users/amiromarwork/.gradle/caches/8.14/transforms/370635ff6924b5a189a434a21861a992/transformed/activity-1.8.0/res
+com.example.helloamir.app-annotation-experimental-1.3.0-6 /Users/amiromarwork/.gradle/caches/8.14/transforms/40fc1abb2f2fa9370eac278214a7d830/transformed/annotation-experimental-1.3.0/res
+com.example.helloamir.app-lifecycle-runtime-2.6.1-7 /Users/amiromarwork/.gradle/caches/8.14/transforms/591630fd8df0eb68e90aa19ba3d04dd4/transformed/lifecycle-runtime-2.6.1/res
+com.example.helloamir.app-core-1.12.0-8 /Users/amiromarwork/.gradle/caches/8.14/transforms/75ab2d972b7194588337fe620b705239/transformed/core-1.12.0/res
+com.example.helloamir.app-emoji2-views-helper-1.2.0-9 /Users/amiromarwork/.gradle/caches/8.14/transforms/7d0ace105be9c7d2df27e990ce204fee/transformed/emoji2-views-helper-1.2.0/res
+com.example.helloamir.app-cardview-1.0.0-10 /Users/amiromarwork/.gradle/caches/8.14/transforms/805b8bbd2a9bd9c3d8f8b0b34a6ce94e/transformed/cardview-1.0.0/res
+com.example.helloamir.app-lifecycle-viewmodel-savedstate-2.6.1-11 /Users/amiromarwork/.gradle/caches/8.14/transforms/83d86e530636334d99b17067daa96741/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.helloamir.app-recyclerview-1.1.0-12 /Users/amiromarwork/.gradle/caches/8.14/transforms/98fc6ba139ea14c48c1d2749d75bead1/transformed/recyclerview-1.1.0/res
+com.example.helloamir.app-startup-runtime-1.1.1-13 /Users/amiromarwork/.gradle/caches/8.14/transforms/a257554803ee42d732eef68eafe00a53/transformed/startup-runtime-1.1.1/res
+com.example.helloamir.app-drawerlayout-1.1.1-14 /Users/amiromarwork/.gradle/caches/8.14/transforms/bfa83fc3e168a62135368b59527c1f26/transformed/drawerlayout-1.1.1/res
+com.example.helloamir.app-transition-1.2.0-15 /Users/amiromarwork/.gradle/caches/8.14/transforms/c378299fc0b7fab17a8fb687764f8c32/transformed/transition-1.2.0/res
+com.example.helloamir.app-profileinstaller-1.3.0-16 /Users/amiromarwork/.gradle/caches/8.14/transforms/c485ade786f22f805caa9bc06d8a7bdb/transformed/profileinstaller-1.3.0/res
+com.example.helloamir.app-lifecycle-livedata-2.6.1-17 /Users/amiromarwork/.gradle/caches/8.14/transforms/d0e67ab05263ab6a1a6b6392cf05822a/transformed/lifecycle-livedata-2.6.1/res
+com.example.helloamir.app-emoji2-1.2.0-18 /Users/amiromarwork/.gradle/caches/8.14/transforms/d34623ce1a36af2617ba26d28d3555cd/transformed/emoji2-1.2.0/res
+com.example.helloamir.app-fragment-1.3.6-19 /Users/amiromarwork/.gradle/caches/8.14/transforms/d35feee20cb2db7c6ed4a6e52718e039/transformed/fragment-1.3.6/res
+com.example.helloamir.app-lifecycle-viewmodel-2.6.1-20 /Users/amiromarwork/.gradle/caches/8.14/transforms/d90d5793c8b2fc25132aedec57eb4893/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.helloamir.app-coordinatorlayout-1.1.0-21 /Users/amiromarwork/.gradle/caches/8.14/transforms/d97cbc85dbb6e6a57058d14b023cdccf/transformed/coordinatorlayout-1.1.0/res
+com.example.helloamir.app-savedstate-1.2.1-22 /Users/amiromarwork/.gradle/caches/8.14/transforms/dfbbccdd6f78747558629fdd6f01e276/transformed/savedstate-1.2.1/res
+com.example.helloamir.app-constraintlayout-2.1.4-23 /Users/amiromarwork/.gradle/caches/8.14/transforms/ec186c245b07536bce1a8b9fdbb79446/transformed/constraintlayout-2.1.4/res
+com.example.helloamir.app-lifecycle-livedata-core-2.6.1-24 /Users/amiromarwork/.gradle/caches/8.14/transforms/ec437acae8cd7424010c28b5bc37fff1/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.helloamir.app-lifecycle-process-2.6.1-25 /Users/amiromarwork/.gradle/caches/8.14/transforms/efeb16be5fd6ed74a1641788c96b4331/transformed/lifecycle-process-2.6.1/res
+com.example.helloamir.app-appcompat-resources-1.6.1-26 /Users/amiromarwork/.gradle/caches/8.14/transforms/f62401fcb922b31bbea993986790e351/transformed/appcompat-resources-1.6.1/res
+com.example.helloamir.app-pngs-27 /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/build/generated/res/pngs/debug
+com.example.helloamir.app-resValues-28 /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/build/generated/res/resValues/debug
+com.example.helloamir.app-packageDebugResources-29 /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.helloamir.app-packageDebugResources-30 /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.helloamir.app-debug-31 /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.helloamir.app-debug-32 /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/debug/res
+com.example.helloamir.app-main-33 /Users/amiromarwork/Desktop/MPC LAB/Hello APP exp1/app/src/main/res

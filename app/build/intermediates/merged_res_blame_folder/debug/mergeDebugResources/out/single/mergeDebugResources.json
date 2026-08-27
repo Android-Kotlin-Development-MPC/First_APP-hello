@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.helloamir.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-debug-31:/drawable_background_gradient.xml.flat",
+        "source": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-main-33:/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-debug-31:/drawable_glass_card.xml.flat",
+        "source": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-main-33:/drawable/glass_card.xml"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-debug-31:/drawable_circle_purple.xml.flat",
+        "source": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-main-33:/drawable/circle_purple.xml"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-debug-31:/drawable_circle_blue.xml.flat",
+        "source": "/Users/amiromarwork/.gradle/daemon/8.14/com.example.helloamir.app-main-33:/drawable/circle_blue.xml"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloamir.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.helloamir.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.helloamir.app-main-33:/drawable/ic_launcher_background.xml"
+    }
+]
